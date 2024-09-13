@@ -1,6 +1,7 @@
 ---
-permalink: /welcome/
-excerpt: "Welcome!"
+permalink: /about/
+excerpt: "About Me"
+title: "About Me"
 author_profile: true
 layout: single
 ---

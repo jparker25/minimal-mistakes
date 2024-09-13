@@ -7,6 +7,8 @@ layout: single
 ---
 A list of presentations. A * denotes invited talk, a ** denotes symposium organization, and *** denotes reward recevied.
 
+***
+
 <details><summary>Conferences (12)</summary>
 <span style="font-size:0.75em;">(12) Modeling an Output Nucleus Integrating Multiple Inhibitory Pathways</span><br><span style="font-size:0.6em;">Oral Presentation, ICMNS 2024, University College Dublin, Dublin, Ireland,<i> 11 June 2024</i></span>
 <br>
@@ -50,6 +52,7 @@ Won UCR Contributed Talk Award for Mathematical Neuroscience
 <span style="font-size:0.75em;">(1) Mutual Stabilization in Bidirectional Two Cell FitzHugh-Nagumo Neurons</span><br><span style="font-size:0.6em;">Oral Presentation,  Graduate Research Conference, University of New Hampshire,<i> 10 April 2018</i></span>
 </details>
 
+***
 
 <details><summary>Seminars (13)</summary>
 <span style="font-size:0.75em;">(13) A Data-Driven, Network Approach to Modeling an Output Nucleus of the Basal Ganglia</span><br><span style="font-size:0.6em;">Oral Presentation, Math Bio Seminar, University of Pittsburgh,<i> 22 February 2024</i></span>
@@ -91,3 +94,4 @@ Won UCR Contributed Talk Award for Mathematical Neuroscience
 <span style="font-size:0.75em;">(1*) Chaotic Stabilization in Neural Systems</span><br><span style="font-size:0.6em;">Virtual Oral Presentation, Applied Mathematics Seminar, University of Colorado Boulder, Zoom,<i> 19 November 2020</i></span>
 </details>
 
+***
